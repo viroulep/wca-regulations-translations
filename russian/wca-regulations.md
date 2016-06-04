@@ -15,6 +15,7 @@
 
 Перевод корректировали: [Оксана Рузаева](https://worldcubeassociation.org/results/p.php?i=2010RUZA01), [Антон Горячих](https://worldcubeassociation.org/results/p.php?i=2009GORY01), [Дмитрий Анискин](https://worldcubeassociation.org/results/p.php?i=2011ANIS01).
 
+
 ### Положения WCA и Дополнения к Положениям WCA
 
 Положения WCA содержат полный набор правил, которые применяются на всех официальных соревнованиях, проводимых под эгидой Всемирной Ассоциации Кубика (World Cube Association).
