@@ -19,9 +19,11 @@ En pro de la claridad, cada Directriz se clasifica usando una de las siguientes 
 
 - <label>[ADICIÓN] Información adicional que complementa al Reglamento.
 - <label>[ACLARACIÓN] Información para dar respuesta a posibles dudas sobre la interpretación del Reglamento.
+- <label>[ALCARACIÓN] dummy
 - <label>[EXPLICACIÓN] Información que aclara el propósito del Reglamento.
 - <label>[RECOMENDACIÓN] Algo que no es estrictamente obligatorio, pero que debería hacerse si es posible.
 - <label>[RECORDATORIO] Información que se encuentra en otras Reglas o Directrices, pero cuya relevancia hace que merezca ser reiterada.
+- <label>[EJEMPLO] dummy
 
 
 ## <contents> [Contenido](guidelines:contents)

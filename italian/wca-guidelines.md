@@ -22,6 +22,8 @@ Per rendere più semplice e immediata la consultazione, ogni Linea Guida è clas
 - <label>[SPIEGAZIONE] Informazione che illustra il fine di una regola.
 - <label>[RACCOMANDAZIONE] Direttiva non strettamente obbligatoria, ma che deve essere seguita quando possibile.
 - <label>[PROMEMORIA] Informazione che può essere riferita ad un'altra regola/linea guida ma che merita di essere ripetuta per la sua rilevanza.
+- <label>[ESEMPIO] dummy
+- <label>[NOTA] dummy
 
 
 ## <contents> [Contenuto](guidelines:contents)
