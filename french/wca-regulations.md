@@ -46,7 +46,6 @@ Note : les numéros des articles et des règles ne sont pas réassignés lors d'
 - 1c) Le Délégué WCA peut déléguer ses responsabilités aux autres membres de l'équipe organisatrice, mais est responsable de la manière dont celles ci sont assurées. Le Délégué WCA d'une compétition est en charge de :
     - 1c1) Rendre compte au Bureau de la WCA du respect du Règlement au cours de la compétition, du déroulement général de la compétition, et des incidents survenus. Le compte-rendu doit être soumis au Bureau de la WCA avant la fin de la semaine suivant la fin de la compétition.
     - 1c3) Envoyer les résultats de la compétition à l'équipe des résultats de la WCA, au plus tard une semaine après la fin de la compétition.
-        - 1c3a) Toutes les séquences de mélange utilisées lors d'une compétition doivent être envoyées avec les résultats de cette compétition.
         - 1c3b) Les séquences de mélanges doivent être annotées avec les épreuves, les tours, et les groupes pour lesquels elles ont été utilisées.
     - 1c4) Envoyer des corrections aux résultats de la compétition au Bureau de la WCA.
     - 1c5) Conseiller les autres officiels lorsque c'est nécessaire.

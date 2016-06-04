@@ -39,8 +39,8 @@ Afin de donner la nature de la recommandation, chacune d'elle est répertoriée 
 - 1c10+) [ECLAIRCISSEMENT] Il est suffisant d'assurer l'accès à une copie numérique du Règlement.
 - 1h+) [CONSEIL] Les compétiteurs d'un seul et même groupe devraient résoudre les mêmes séquences de mélange. Des groupes différents devraient utiliser des séquences de mélange différentes.
 - 1h++) [CONSEIL] Tous les essais d'un tour final d'une épreuve, ainsi que tous les essais de résolution optimisée, devraient avoir les mêmes mélanges pour tous les compétiteurs (c'est-à-dire un seul groupe).
-- 1h1+) [ECLAIRCISSEMENT] Les juges/mélangeurs ne devraient juger/mélanger pour d'autres compétiteurs du même groupe que si c'est important pour l'organisation de la compétition.
 - 1h1++) [ECLAIRCISSEMENT] Pour l'épreuve de résolution optimisée, les juges peuvent juger des compétiteurs dans leur propre groupe avant qu'eux même ait fini leur essai (c'est-à-dire pendant qu'il participe).
+- 1h1+) [ECLAIRCISSEMENT] Les juges/mélangeurs ne devraient juger/mélanger pour d'autres compétiteurs du même groupe que si c'est important pour l'organisation de la compétition.
 
 
 ## <article-2><competitors><competitors> Article 2 : Compétiteurs
