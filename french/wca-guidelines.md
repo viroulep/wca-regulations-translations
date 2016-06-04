@@ -13,6 +13,7 @@ Les Recommandations WCA complémentent le [Règlement WCA](regulations:top). Mer
 
 Les Recommandations sont numérotées pour correspondre à la règle concernée. Il peut y avoir plusieurs recommandations pour une même règle, et certaines recommandations peuvent correspondrent à des règles qui n'existent plus.
 
+
 ### Étiquettes
 
 Afin de donner la nature de la recommandation, chacune d'elle est répertoriée sous une des étiquettes suivantes. Notez que ces étiquettes sont des métadonnées, et non une description importante.
